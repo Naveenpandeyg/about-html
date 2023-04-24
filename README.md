@@ -55,8 +55,9 @@
       <li>database</li>
       <Li>ajax</li>
       <p> image tag </p>
-     
-      <p>image tag is used to insert image on the webpage</p>
+     <br>
+      <P>image tag is used to insert image on the webpage</p>
+      <br>
       <p>The image tag is an open tag </p>
       <p>Attributes</P>
       <ol>src-location of image</ol>
