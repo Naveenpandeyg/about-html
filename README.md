@@ -26,5 +26,12 @@
   <h2>what is nexted list?<h2>
     <P>A list which contains list inside it called nested</p>
       <p>list ke andar list hona</p>
+    <p>example</p>
+    <ul>frontend
+      <ol>html</ol>
+    
+    </ul>
+    
+    
     </body>
   </html>
