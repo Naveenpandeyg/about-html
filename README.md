@@ -82,6 +82,10 @@
         
        1- the <a>tag define a hyperlink,which is used to link from one page to another
        2- It is a close tag 
-    
+       3-href-Indicates the link's destination
+       4-Target-blank,parent
+      <a href="url">word</a>
+      <a href="url"target="_blank">word</a>
+      <a href="url"target="_parent"
    
   </html>
