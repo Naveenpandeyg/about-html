@@ -29,7 +29,7 @@
   <br> li list tag 
 <br>2-unordered list
   <p>example-
-  <ul>disc
+  <ul>types
     <li>disc</li>
     <li>circle</li>
     <li>square</li>
