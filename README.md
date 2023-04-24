@@ -66,12 +66,10 @@
       <ol>height-pxeal</ol>
       <ol>width-pixel</ol>
      
-      <br>
-      
-      
-      
      
-      <img src="url"title="name"alt="this is missing"height="500px" width="500px"/>
+      
+      
+ <img src="url"title="name"alt="this is missing"height="500px" width="500px"/>
       
        
         
