@@ -68,6 +68,7 @@
       <oL>
         
      <img src="url"title="name"alt="this is missing"height="500px" width="500px"/>
+        </ol>
        
         
         
