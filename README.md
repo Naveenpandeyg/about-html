@@ -28,7 +28,7 @@
       <p>list ke andar list hona</p>
     <p>example</p>
     <ul>frontend
-      <ol>html</ol>
+      <li>html</li>
     
     </ul>
     
