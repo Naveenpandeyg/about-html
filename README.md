@@ -89,5 +89,12 @@
       <a href="url"target="_parent">word</a>
       <center>this tag is used for center</center>
       
+      
+      
+      
+      
+      
+      <table>
+        the table is used to show some data which are related each other
    
   </html>
