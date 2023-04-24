@@ -79,11 +79,11 @@
         
         
         
-        <br>
-        <h1>Anchor tag</h1>
-        <br>
-        <p>the <a>tag define a hyperlink,which is used to link from one page to another</P>
-          <br><p>It is a close tag <p>
+        
+        Anchor tag
+        
+       1- the <a>tag define a hyperlink,which is used to link from one page to another
+       2- It is a close tag 
     
    
   </html>
