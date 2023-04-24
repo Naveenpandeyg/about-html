@@ -56,7 +56,17 @@
       <Li>ajax</li>
       <p> image tag </p>
      
-      <p>
+      <p>image tag is used to insert image on the webpage</p>
+      <p>The image tag is an open tag </p>
+      <p>Attributes</P>
+      <ol>src-location of image</ol>
+      <ol>title-image name</ol>
+      <ol>alt-without image name </ol>
+      <ol>height-pxeal</ol>
+      <ol>width-pixel</ol>
+      <oL>
+        
+     <img src="url"title="name"alt="this is missing"height="500px" width="500px"/>
     
     
     </body>
