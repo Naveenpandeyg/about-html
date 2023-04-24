@@ -16,7 +16,15 @@
   <hr>
   <br><strong>List tag</strong> 
   <br><h4>two type</h4>
- <br>1-ordered list 
+ <br>1-ordered list   
+  
+  
+  example
+  <br>
+  <ol>number
+  <li>html</li>
+    <li>css</li>
+    <li>javascript</li> </ol>
   <br> ol tag 
   <br> li list tag 
 <br>2-unordered list
