@@ -68,7 +68,11 @@
       <oL>
         
      <img src="url"title="name"alt="this is missing"height="500px" width="500px"/>
-    
+        <br>
+        <h1>Anchor tag</h1>
+        <br>
+        <p>the <a>tag define a hyperlink,which is used to link from one page to another</P>
+          <br><p>It is a close tag <p>
     
     </body>
   </html>
