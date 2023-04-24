@@ -21,13 +21,20 @@
   
   <p> example</p>
   <br>
-  <ol>number
+  <ol>numerical
   <li>html</li>
     <li>css</li>
     <li>javascript</li> </ol>
   <br> ol tag 
   <br> li list tag 
 <br>2-unordered list
+  <p>example-
+  <ul>disc
+    <li>disc</li>
+    <li>circle</li>
+    <li>square</li>
+    <li>none</li>
+  </ul>
   <br> ul tag means unordered list 
   <br> li list item
    
