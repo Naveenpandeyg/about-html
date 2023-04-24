@@ -54,7 +54,9 @@
       <li>php</li>
       <li>database</li>
       <Li>ajax</li>
-   
+      <p> image tag </p>
+     
+      <p>
     
     
     </body>
