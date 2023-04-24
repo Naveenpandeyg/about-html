@@ -86,6 +86,8 @@
        4-Target-blank,parent
       <a href="url">word</a>
       <a href="url"target="_blank">word</a>
-      <a href="url"target="_parent"
+      <a href="url"target="_parent">word</a>
+      <center>this tag is used for center</center>
+      
    
   </html>
