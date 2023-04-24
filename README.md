@@ -27,10 +27,10 @@
     <P>A list which contains list inside it called nested</p>
       <p>list ke andar list hona</p>
     <p>example</p>
-    <ul>frontend
+    <ul>frontend</ul>
       <li>html</li>
     
-    </ul>
+   
     
     
     </body>
