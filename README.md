@@ -13,6 +13,7 @@
 <br><U> u tag is use to underline the text </u>
 <br><mark> mark tag is use to highlight some text </mark>
 <br><del> del tag is use to strikethrogh some text </del>
+  <hr>
   <br><strong>List tag</strong> 
   <br><h4>two type</h4>
  <br>1-ordered list 
