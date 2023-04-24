@@ -65,6 +65,11 @@
       <ol>alt-without image name </ol>
       <ol>height-pxeal</ol>
       <ol>width-pixel</ol>
+     
+      <br>
+      
+      
+      
       <oL>
       <img src="url"title="name"alt="this is missing"height="500px" width="500px"/>
       </ol>
