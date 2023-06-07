@@ -38,6 +38,148 @@
   <br> ul tag means unordered list 
   <br> li list item
   Char 	Dec 	Hex 	Name
+
+ <h1> Keyboard Shortcuts For Windows and Mac
+
+Keyboard shortcuts are often used in modern operating systems and computer software programs.
+
+   Learning and using keyboard shortcuts can save you a lot of time.</h1>
+Basic Shortcuts
+Description 	Windows 	Mac OS
+Edit menu 	Alt + E 	Ctrl + F2 + F<br>
+File menu 	Alt + F 	Ctrl + F2 + E<br>
+View menu 	Alt + V 	Ctrl + F2 + V<br>
+Select all text 	Ctrl + A 	Cmd + A<br>
+Copy text 	Ctrl + C 	Cmd + C<br>
+Find text 	Ctrl + F 	Cmd + F<br>
+Find and replace text 	Ctrl + H 	Cmd + F<br>
+New Document 	Ctrl + N 	Cmd + N<br>
+Open a file 	Ctrl + O 	Cmd + O<br>
+Print options 	Ctrl + P 	Cmd + P<br>
+Save file 	Ctrl + S 	Cmd + S<br>
+Paste text 	Ctrl + V 	Cmd + V<br>
+Cut text 	Ctrl + X 	Cmd + X<br>
+Redo text 	Ctrl + Y 	Shift + Cmd + Z<br>
+Undo text 	Ctrl + Z 	Cmd + Z<br>
+<h2>Text Editing<br>
+Description 	Windows 	Mac OS<br>
+  Cursor Movement</h2> 		<br>
+Go to the right or to the beginning of next line break 	Right Arrow 	Right Arrow<br>
+Go to the left or to the end of previous line break 	Left Arrow 	Left Arrow<br>
+Go up one row 	Up Arrow 	Up Arrow<br>
+Go down one row 	Down Arrow 	Down Arrow<br>
+Go to the beginning of the current line 	Home 	Cmd + Left Arrow<br>
+Go to the end of the current line 	End 	Cmd + Right Arrow<br>
+Go to the beginning of the document 	Ctrl + Home 	Cmd + Up Arrow<br>
+Go to the end of the document 	Ctrl + End 	Cmd + Down Arrow<br>
+Move up one frame 	Page Up 	Fn + Up Arrow<br>
+Move down one frame 	Page Down 	Fn + Down Arrow<br>
+Go to beginning of previous word 	Ctrl + Left Arrow 	Option + Left Arrow<br>
+Go to beginning of next word 	Ctrl + Right Arrow 	Option + Right Arrow<br>
+Go to beginning of line break 	Ctrl + Up Arrow 	Cmd + Left Arrow<br>
+Go to end of line break 	Ctrl + Down Arrow 	Cmd + Right Arrow<br>
+  	  	 
+  <h1>Text Selection</h1> 		
+Select characters to the left 	Shift + Left Arrow 	Shift + Left Arrow<br>
+Select characters to the right 	Shift + Right Arrow 	Shift + Right Arrow<br>
+Select lines upwards 	Shift + Up Arrow 	Shift + Up Arrow<br>
+Select lines downwards 	Shift + Down Arrow 	Shift + Down Arrow<br>
+Select words to the left 	Shift + Ctrl + Left 	Shift + Opt + Left<br>
+Select words to the right 	Shift + Ctrl + Right 	Shift + Opt + Right<br>
+Select paragraphs to the left 	Shift + Ctrl + Up 	Shift + Opt + Up<br>
+Select paragraphs to the right 	Shift + Ctrl + Down 	Shift + Opt + Down<br>
+Select text between the cursor and the beginning of the current line 	Shift + Home 	Cmd + Shift + Left Arrow<br>
+Select text between the cursor and the end of the current line 	Shift + End 	Cmd + Shift + Right Arrow<br>
+Select text between the cursor and the beginning of the document 	Shift + Ctrl + Home 	Cmd + Shift + Up Arrow or Cmd + Shift + Fn + Left Arrow<br>
+Select text between the cursor and the end of the document 	Shift + Ctrl + End 	Cmd + Shift + Down Arrow or Cmd + Shift + Fn + Right Arrow<br>
+Select one frame at a time of text above the cursor 	Shift + Page Up 	Shift + Fn + Up Arrow<br>
+Select one frame at a time of text below the cursor 	Shift + Page Down 	Shift + Fn + Down Arrow<br>
+Select all text 	Ctrl + A 	Cmd + A<br>
+Find text 	Ctrl + F 	Cmd + F<br>
+  	  	 
+  <h2>Text Formatting </h1>		
+Make selected text bold 	Ctrl + B 	Cmd + B<br>
+Make selected text italic 	Ctrl + I 	Cmd + I<br>
+Underline selected text 	Ctrl + U 	Cmd + U<br>
+Make selected text superscript 	Ctrl + Shift + = 	Cmd + Shift + =<br>
+Make selected text subscript 	Ctrl + = 	Cmd + =<br>
+  	  	 
+  <h2>Taxt Editing</h2> 		
+Delete characters to the left 	Backspace 	Backspace<br>
+Delete characters to the right 	Delete 	Fn + Backspace<br>
+Delete words to the right 	Ctrl + Del 	Cmd + Backspace<br>
+Delete words to the left 	Ctrl + Backspace 	Cmd + Fn + Backspace<br>
+  <h2>Indent 	Tab 	Tab</h2>
+Outdent 	Shift + Tab 	Shift + Tab<br>
+Copy text 	Ctrl + C 	Cmd + C<br>
+Find and replace text 	Ctrl + H 	Cmd + F<br>
+Paste text 	Ctrl + V 	Cmd + V<br>
+Cut text 	Ctrl + X 	Cmd + X<br>
+Redo text 	Ctrl + Y 	Shift + Cmd + Z<br>
+Undo text 	Ctrl + Z 	Cmd + Z<br>
+  <h2>Web Browsers</h2>
+Description 	Windows 	Mac OS
+Navigation 		
+Scroll down a frame 	Space or Page Down 	Space or Fn + Down Arrow
+Scroll up a frame 	Shift + Space or Page Up 	Shift + Space or Fn + Up Arrow
+Go to bottom of the page 	End 	Cmd + Down Arrow
+Go to top of the page 	Home 	Cmd + Up Arrow
+Go back 	Alt + Left Arrow or Backspace 	Cmd + Left Arrow
+Go forward 	Alt + Right Arrow or Shift + Backspace 	Cmd + Right Arrow
+Refresh a webpage 	F5 	Cmd + R
+Refresh a webpage (no cache) 	Ctrl + F5 	Cmd + Shift + R
+Stop 	Esc 	Esc
+Toggle full-screen 	F11 	Cmd + Shift + F
+Zoom in 	Ctrl + + 	Cmd + +
+Zoom out 	Ctrl + - 	Cmd + -
+Zoom 100% (default) 	Ctrl + 0 	Cmd + 0
+Open homepage 	Alt + Home 	Option + Home or Option + Fn + Left Arrow
+Find text 	Ctrl + F 	Cmd + F
+  	  	 
+Tab / Window Management 		
+Open a new tab 	Ctrl + T 	Cmd + T
+Close current tab 	Ctrl + W 	Cmd + W
+Close all tabs 	Ctrl + Shift + W 	Cmd + Q
+Close all tabs except the current tab 	Ctrl + Alt + F4 	Cmd + Opt + W
+Go to next tab 	Ctrl + Tab 	Control + Tab or Cmd + Shift + Right Arrow
+Go to previous tab 	Ctrl + Shift + Tab 	Shift + Control + Tab or Cmd + Shift + Left Arrow
+Go to a specific tab number 	Ctrl + 1-8 	Cmd + 1-8
+Go to the last tab 	Ctrl + 9 	Cmd + 9
+Reopen the last closed tab 	Ctrl + Shift + T 	Cmd + Shift + T
+Open a new window 	Ctrl + N 	Cmd + N
+Close current window 	Alt + F4 	Cmd + W
+Go to next window 	Alt + Tab 	Cmd + Tab
+Go to previous window 	Alt + Shift + Tab 	Cmd + Shift + Tab
+Reopen the last closed window 	Ctrl + Shift + N 	 
+Open links in a new tab in the background 	Ctrl + Click 	Cmd + Click
+Open links in a new tab in the foreground 	Ctrl + Shift + Click 	Cmd + Shift + Click
+Print current webpage 	Ctrl + P 	Cmd + P
+Save current webpage 	Ctrl + S 	Cmd + S
+  	  	 
+Address Bar 		
+Cycle between toolbar, search bar, and page elements 	Tab 	Tab
+Go to browser's address bar 	Ctrl + L or Alt + D 	Cmd + L
+Focus and select the browser's search bar 	Ctrl + E 	Cmd + E / Cmd + K
+Open the address bar location in a new tab 	Alt + Enter 	Opt + Enter
+Display a list of previously typed addresses 	F4 	 
+Add "www." to the beginning and ".com" to the end of the text typed in the address bar (e.g., type "w3schools" and press Ctrl + Enter to open "www.w3schools.com") 	Ctrl + Enter 	Cmd + Enter or Control + Enter
+  	  	 
+Bookmarks 		
+Open the bookmarks menu 	Ctrl + B 	Cmd + B
+Add bookmark for current page 	Ctrl + D 	Cmd + Opt + B or Cmd + Shift + B
+Open browsing history 	Ctrl + H 	Cmd + Shift + H or Cmd + Y
+Open download history 	Ctrl + J 	Cmd + J or Cmd + Shift + J
+Screenshots
+Description 	Windows 	Mac OS
+Save screenshot of the whole screen as file 	  	Cmd + Shift + 3
+Copy screenshot of the whole screen to the clipboard 	PrtScr (Print Screen) or Ctrl + PrtScr 	Cmd + Ctrl + Shift + 3
+Save screenshot of window as file 	  	Cmd + Shift + 4, then Space
+Copy screenshot of window to the clipboard 	Alt + PrtScr 	Cmd + Ctrl + Shift + 4, then Space
+Copy screenshot of wanted area to the clipboard 		Cmd + Ctrl + Shift + 4
+Save screenshot of wanted area as file 	  	Cmd + Shift + 4
+  
+  
+  
   <h1>1xx: Information</h1>
 Message: 	Description:
 100 Continue 	The server has received the request headers, and the client should proceed to send the request body
