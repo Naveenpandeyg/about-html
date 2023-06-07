@@ -38,7 +38,14 @@
   <br> ul tag means unordered list 
   <br> li list item
   Char 	Dec 	Hex 	Name
-
+Color Name 	Hex 	Color
+AliceBlue 	#F0F8FF 	 
+AntiqueWhite 	#FAEBD7 	 
+Aqua 	#00FFFF 	 
+Aquamarine 	#7FFFD4 	 
+Azure 	#F0FFFF 	 
+Beige 	#F5F5DC 	 
+Bisque 	#FFE4C4 	 
  <h1> Keyboard Shortcuts For Windows and Mac
 
 Keyboard shortcuts are often used in modern operating systems and computer software programs.
